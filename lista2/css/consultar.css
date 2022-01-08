@@ -1,0 +1,38 @@
+
+/** Consultar **/
+
+*{
+
+	font-family: Muli, sans-serif;
+}
+
+
+#consultar{
+
+	border-style: none;
+	width: 600px;
+	margin: 50px 500px;
+	border: 1px solid red;
+}
+
+
+.titulo-consultar{
+
+	text-align: center;
+	padding: 8px 0px;
+	background: #f3f0f0;
+	color: #6D6D6D;
+}
+
+
+.texto-1{
+
+	color: #6D6D6D;
+}
+
+
+.botao-consultar{
+
+	width: 150px;
+	padding: 8px 0px;
+}

@@ -1,0 +1,135 @@
+
+/** barra de navegação Topo **/
+
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	font-family: Muli, sans-serif;
+}
+
+
+.cor-barra{
+
+	background: #5001BC;
+	height: 45px;
+}
+
+
+.cor-barra a{
+
+	color: white;
+	font-weight: bold;
+}
+
+
+.cor-barra a:hover{
+
+	color: #00E0D6;
+}
+
+
+.sub-nav ul{
+
+	margin: 0px 550px;
+	padding: 0px 10px;
+}
+
+
+.sub-nav h6{
+
+	display: inline-block;
+	padding-top: 5px;
+	color: white;
+}
+
+
+
+
+/** Barra de nav lateral **/
+
+article{
+
+	border-style: none;
+	background: black;
+	position: absolute;
+	width: 250px;
+	height: 615px;
+	color: white;
+}
+
+
+.parte-usuario{
+
+	text-align: center;
+	padding: 20px 0px;
+}
+
+
+.adicionar{
+
+	text-align: center;
+	border-left: 4px solid #00E0D6;
+}
+
+
+.adicionar a{
+
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+
+.adicionar a:hover{
+
+	color: #00E0D6;
+	font-weight: bold;
+}
+
+
+.consultar{
+
+	text-align: center;
+	margin: 15px 0px;
+	border-left: 4px solid #00E0D6;	
+}
+
+
+.consultar a{
+
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+}
+
+
+.consultar a:hover{
+
+	font-weight: bold;
+	color: #00E0D6;
+}
+
+
+
+.encerrar{
+
+	text-align: center;
+	margin-top: 280px;
+}
+
+.encerrar a{
+
+	color: white;
+	font-weight: bold;
+
+}
+
+
+.encerrar a:hover{
+
+	text-decoration: none;
+	color: #00E0D6;
+}

@@ -1,0 +1,106 @@
+
+/** adicionar **/
+
+*{
+
+	font-family: Muli, sans-serif;
+}
+
+
+#adicionar{
+
+	padding: 80px 500px;
+}
+
+
+form{
+
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	width: 600px;
+	padding: 25px 25px;
+}
+
+
+.tarefa{
+
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	width: 500px;
+	height: 40px;
+	padding: 5px 15px;
+}
+
+.texto-aviso{
+
+	color: #ABABAB;
+	font-size: 13px;
+	padding: 0px 8px;
+}
+
+
+.texto-data{
+
+	color: #6D6D6D;
+}
+
+
+.area-data{
+
+	border: 1px solid #D1D1D1;
+	border-radius: 5px;
+	color: #6D6D6D;
+	padding: 5px 10px;
+}
+
+
+.area-data:hover{
+
+	cursor: pointer;
+}
+
+
+.area-comentario{
+
+	color: #6D6D6D;
+}
+
+
+.area-comentario2{
+
+	color: #ABABAB;
+}
+
+
+.botao1{
+
+	margin: 8px 0px;
+	width: 200px;
+	float: left;
+	text-align: center;
+}
+
+.botao-adicionar{
+
+	width: 150px;
+	padding: 8px 0px;
+	font-weight: bold;
+}
+
+
+
+
+.botao2{
+
+	text-align: center;
+	margin: 8px 0px;
+	width: 200px;
+	float: right;
+}
+
+
+.botao-voltar{
+
+	width:150px;
+	padding: 8px 0px;
+}

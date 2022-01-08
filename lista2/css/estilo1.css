@@ -1,0 +1,132 @@
+
+/** Cabeçalho **/
+
+*{
+
+	font-family: Muli, sans-serif;
+}
+
+nav{
+
+	height: 45px;
+}
+
+.cor-nav{
+
+	background: #5001BC;
+	color: white;
+	margin:auto;
+}
+
+
+nav a{
+
+	color: white;
+	text-decoration: none;
+}
+
+nav a:hover{
+
+	text-decoration: none;
+	color: #00E0D6;
+}
+
+
+
+
+
+/** cabecalho 2 ***/
+
+
+#cabecalho2{
+
+	background: #5001BC;
+	height: 300px;
+}
+
+
+.secao-texto{
+
+	margin: 10px 0px;
+}
+
+
+.titulo-texto{
+
+	padding: 3px 50px;
+	color: white;
+	font-weight: bold;
+}
+
+
+.img-rotate{
+
+	padding: 3px 70px;
+	position: absolute;
+	transform: rotate(50grad); /** rotacionando minha imagem **/
+}
+
+
+
+
+.secao-login{
+
+	padding: 3px 150px;
+}
+
+
+
+.texto-login{
+
+	text-align: center;
+	padding: 1px 0px;
+	background: #F3F3F3;
+}
+
+
+.botao{
+
+	margin: 5px 90px;
+}
+
+
+input{
+
+	margin: -5px 0px;
+}
+
+
+
+
+/** sobre a list **/
+
+
+#sobre{
+
+	background: #F3F3F3;
+	padding: 200px 0px;
+}
+
+
+.texto-1{
+
+	text-align: center;
+}
+
+
+.t-1{
+
+	font-weight: bold;
+}
+
+
+.texto-2{
+
+	text-align: center;
+}
+
+
+.texto-3{
+
+	text-align: center;
+}
